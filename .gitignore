@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/SJTU-CS0003W.iml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
