@@ -1,0 +1,4 @@
+# Core dependencies for the real-time face detection application
+Flask==2.3.3                    # Web framework for serving the application
+ultralytics>=8.3.x              # YOLOv8 implementation for object detection
+opencv-python>=4.9.0            # Computer vision library for image processing
